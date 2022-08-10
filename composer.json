@@ -1,9 +1,10 @@
 {
   "name": "rjayswal/laravel-php-native-fileupload",
+  "type": "library",
   "description": "Upload file using php native.",
   "autoload": {
     "psr-4": {
-      "Rjayswal\\Phpnativeupload\\": "src/"
+      "Rjayswal\\LaravelPhpNativeFileupload\\": "src/"
     }
   },
   "minimum-stability": "dev",
